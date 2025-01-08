@@ -1,0 +1,194 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "category": "HTML",
+        "question": "What does HTML stand for?",
+        "options": ["A) HyperText Markup Language", "B) Hyperlink Text Markup Language", "C) Home Tool Markup Language", "D) HyperText Main Language"],
+        "answer": "A) HyperText Markup Language"
+      },
+      {
+        "id": 2,
+        "category": "HTML",
+        "question": "Which HTML tag is used to define a paragraph?",
+        "options": ["A) <p>", "B) <h1>", "C) <br>", "D) <div>"],
+        "answer": "A) <p>"
+      },
+      {
+        "id": 3,
+        "category": "HTML",
+        "question": "Which attribute is used to define inline styles?",
+        "options": ["A) class", "B) style", "C) id", "D) inline"],
+        "answer": "B) style"
+      },
+      {
+        "id": 4,
+        "category": "HTML",
+        "question": "What is the purpose of the <title> tag?",
+        "options": ["A) To define the page title", "B) To define a heading", "C) To link stylesheets", "D) To display images"],
+        "answer": "A) To define the page title"
+      },
+      {
+        "id": 5,
+        "category": "HTML",
+        "question": "What does the <a> tag define?",
+        "options": ["A) A link", "B) An image", "C) A form", "D) A table"],
+        "answer": "A) A link"
+      },
+      {
+        "id": 6,
+        "category": "HTML",
+        "question": "Which element is used for unordered lists?",
+        "options": ["A) <ul>", "B) <ol>", "C) <li>", "D) <list>"],
+        "answer": "A) <ul>"
+      },
+      {
+        "id": 7,
+        "category": "HTML",
+        "question": "What is the correct way to include an image in HTML?",
+        "options": ["A) <img src='image.jpg'>", "B) <image src='image.jpg'>", "C) <pic src='image.jpg'>", "D) <img href='image.jpg'>"],
+        "answer": "A) <img src='image.jpg'>"
+      },
+      {
+        "id": 8,
+        "category": "HTML",
+        "question": "Which tag is used to create a table in HTML?",
+        "options": ["A) <table>", "B) <grid>", "C) <tr>", "D) <td>"],
+        "answer": "A) <table>"
+      },
+      {
+        "id": 9,
+        "category": "HTML",
+        "question": "What does the <meta> tag provide?",
+        "options": ["A) Metadata about the document", "B) External styles", "C) Inline scripts", "D) Navigation links"],
+        "answer": "A) Metadata about the document"
+      },
+      {
+        "id": 10,
+        "category": "CSS",
+        "question": "What does CSS stand for?",
+        "options": ["A) Cascading Style Sheets", "B) Colorful Style Sheets", "C) Creative Style Sheets", "D) Computer Style Sheets"],
+        "answer": "A) Cascading Style Sheets"
+      },
+      {
+        "id": 11,
+        "category": "CSS",
+        "question": "Which property changes the text color in CSS?",
+        "options": ["A) color", "B) background-color", "C) text-color", "D) font-color"],
+        "answer": "A) color"
+      },
+      {
+        "id": 12,
+        "category": "CSS",
+        "question": "How do you add a comment in CSS?",
+        "options": ["A) /* comment */", "B) // comment", "C) <!-- comment -->", "D) # comment"],
+        "answer": "A) /* comment */"
+      },
+      {
+        "id": 13,
+        "category": "CSS",
+        "question": "Which property is used to change the font size?",
+        "options": ["A) font-size", "B) text-size", "C) font-style", "D) text-style"],
+        "answer": "A) font-size"
+      },
+      {
+        "id": 14,
+        "category": "CSS",
+        "question": "What is the correct syntax for a CSS class?",
+        "options": ["A) .className", "B) #className", "C) className:", "D) @className"],
+        "answer": "A) .className"
+      },
+      {
+        "id": 15,
+        "category": "CSS",
+        "question": "Which CSS property controls the layout's top margin?",
+        "options": ["A) margin-top", "B) padding-top", "C) top", "D) layout-top"],
+        "answer": "A) margin-top"
+      },
+      {
+        "id": 16,
+        "category": "CSS",
+        "question": "What does the z-index property control?",
+        "options": ["A) Stack order", "B) Font size", "C) Color depth", "D) Display type"],
+        "answer": "A) Stack order"
+      },
+      {
+        "id": 17,
+        "category": "CSS",
+        "question": "How do you make a flex container?",
+        "options": ["A) display: flex;", "B) flex: container;", "C) container-flex;", "D) flex: 1;"],
+        "answer": "A) display: flex;"
+      },
+      {
+        "id": 18,
+        "category": "CSS",
+        "question": "Which property changes an element's width?",
+        "options": ["A) width", "B) size", "C) max-width", "D) dimension"],
+        "answer": "A) width"
+      },
+      {
+        "id": 19,
+        "category": "JavaScript",
+        "question": "What is the correct way to declare a variable?",
+        "options": ["A) var x = 10;", "B) variable x = 10;", "C) declare x = 10;", "D) let 10 = x;"],
+        "answer": "A) var x = 10;"
+      },
+      {
+        "id": 20,
+        "category": "JavaScript",
+        "question": "What does `typeof` return for an array?",
+        "options": ["A) 'array'", "B) 'object'", "C) 'list'", "D) 'collection'"],
+        "answer": "B) 'object'"
+      },
+      {
+        "id": 21,
+        "category": "JavaScript",
+        "question": "How do you write an arrow function?",
+        "options": ["A) () => {}", "B) function => () {}", "C) -> function () {}", "D) {} => ()"],
+        "answer": "A) () => {}"
+      },
+      {
+        "id": 22,
+        "category": "JavaScript",
+        "question": "What does `NaN` stand for?",
+        "options": ["A) Not a Number", "B) Null and None", "C) No assigned Number", "D) Not available Number"],
+        "answer": "A) Not a Number"
+      },
+      {
+        "id": 23,
+        "category": "JavaScript",
+        "question": "Which loop is best suited for iterating over an array?",
+        "options": ["A) for loop", "B) while loop", "C) do-while loop", "D) forEach()"],
+        "answer": "D) forEach()"
+      },
+      {
+        "id": 24,
+        "category": "JavaScript",
+        "question": "How do you add a click event listener to a button?",
+        "options": ["A) button.addEventListener('click', func)", "B) button.on('click', func)", "C) button.click(func)", "D) button.onClick(func)"],
+        "answer": "A) button.addEventListener('click', func)"
+      },
+      {
+        "id": 25,
+        "category": "JavaScript",
+        "question": "What is the default value of a variable declared with `let`?",
+        "options": ["A) undefined", "B) null", "C) 0", "D) ''"],
+        "answer": "A) undefined"
+      },
+      {
+        "id": 26,
+        "category": "JavaScript",
+        "question": "What does `===` check in JavaScript?",
+        "options": ["A) Value and type", "B) Value only", "C) Type only", "D) None of the above"],
+        "answer": "A) Value and type"
+      },
+      {
+        "id": 27,
+        "category": "JavaScript",
+        "question": "What is the purpose of promises in JavaScript?",
+        "options": ["A) To handle asynchronous operations", "B) To define variables", "C) To loop through data", "D) To debug code"],
+        "answer": "A) To handle asynchronous operations"
+      }
+    ]
+  }
+  
