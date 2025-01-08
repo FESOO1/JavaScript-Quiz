@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the purpose of the `let` keyword in JavaScript?",
+        "options": [
+          "A) To declare variables with block scope.",
+          "B) To create a constant variable.",
+          "C) To define a global variable.",
+          "D) To declare functions."
+        ],
+        "answer": "A) To declare variables with block scope."
+      },
+      {
+        "id": 2,
+        "question": "Which method is used to convert a JSON object into a string?",
+        "options": [
+          "A) JSON.stringify()",
+          "B) JSON.parse()",
+          "C) JSON.convert()",
+          "D) JSON.toString()"
+        ],
+        "answer": "A) JSON.stringify()"
+      },
+      {
+        "id": 3,
+        "question": "How do you add a single-line comment in JavaScript?",
+        "options": [
+          "A) <!-- comment -->",
+          "B) // comment",
+          "C) /* comment */",
+          "D) # comment"
+        ],
+        "answer": "B) // comment"
+      },
+      {
+        "id": 4,
+        "question": "What is the output of `console.log(typeof null);`?",
+        "options": [
+          "A) 'null'",
+          "B) 'object'",
+          "C) 'undefined'",
+          "D) 'string'"
+        ],
+        "answer": "B) 'object'"
+      },
+      {
+        "id": 5,
+        "question": "Which function is used to delay code execution in JavaScript?",
+        "options": [
+          "A) delay()",
+          "B) setTimeout()",
+          "C) setInterval()",
+          "D) sleep()"
+        ],
+        "answer": "B) setTimeout()"
+      },
+      {
+        "id": 6,
+        "question": "What is the result of `2 + '2'` in JavaScript?",
+        "options": [
+          "A) 4",
+          "B) 22",
+          "C) NaN",
+          "D) '2 2'"
+        ],
+        "answer": "B) 22"
+      },
+      {
+        "id": 7,
+        "question": "Which operator is used to compare both value and type?",
+        "options": [
+          "A) ==",
+          "B) =",
+          "C) ===",
+          "D) =>"
+        ],
+        "answer": "C) ==="
+      },
+      {
+        "id": 8,
+        "question": "How do you define a function in JavaScript?",
+        "options": [
+          "A) def myFunction() {}",
+          "B) function myFunction() {}",
+          "C) myFunction() => {}",
+          "D) func myFunction() {}"
+        ],
+        "answer": "B) function myFunction() {}"
+      },
+      {
+        "id": 9,
+        "question": "What does the `Array.prototype.map()` method do?",
+        "options": [
+          "A) Iterates over an array and modifies the original array.",
+          "B) Creates a new array with the results of calling a provided function on every element.",
+          "C) Filters an array based on a condition.",
+          "D) Reduces an array to a single value."
+        ],
+        "answer": "B) Creates a new array with the results of calling a provided function on every element."
+      }
+    ]
+  }
+  
